@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChessLogic", "ChessLogic\ChessLogic.csproj", "{D2C09803-0F96-4B1F-9576-38AE4E9B2B37}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChessUI", "ChessUI\ChessUI.csproj", "{393F49D6-D5DD-4C52-AED7-D58550FBFAC7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6979240D-374E-4018-97C3-ECF2F7192F4F}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2C09803-0F96-4B1F-9576-38AE4E9B2B37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2C09803-0F96-4B1F-9576-38AE4E9B2B37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2C09803-0F96-4B1F-9576-38AE4E9B2B37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2C09803-0F96-4B1F-9576-38AE4E9B2B37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{393F49D6-D5DD-4C52-AED7-D58550FBFAC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{393F49D6-D5DD-4C52-AED7-D58550FBFAC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{393F49D6-D5DD-4C52-AED7-D58550FBFAC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{393F49D6-D5DD-4C52-AED7-D58550FBFAC7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A03E5672-3712-4951-AD09-45E905991BBA}
+	EndGlobalSection
+EndGlobal

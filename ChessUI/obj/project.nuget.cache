@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TsfQI2Cuq2Q=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\franc\\Programming\\C#\\GUI\\Chess\\ChessUI\\ChessUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\franc\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.8\\microsoft.netcore.app.host.win-x64.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
