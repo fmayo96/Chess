@@ -1,0 +1,43 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net9.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="assets\bb.png" />
+    <None Remove="assets\bk.png" />
+    <None Remove="assets\bn.png" />
+    <None Remove="assets\board.png" />
+    <None Remove="assets\bp.png" />
+    <None Remove="assets\bq.png" />
+    <None Remove="assets\br.png" />
+    <None Remove="assets\wb.png" />
+    <None Remove="assets\wk.png" />
+    <None Remove="assets\wn.png" />
+    <None Remove="assets\wp.png" />
+    <None Remove="assets\wq.png" />
+    <None Remove="assets\wr.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="assets\bb.png" />
+    <Resource Include="assets\bk.png" />
+    <Resource Include="assets\bn.png" />
+    <Resource Include="assets\board.png" />
+    <Resource Include="assets\bp.png" />
+    <Resource Include="assets\bq.png" />
+    <Resource Include="assets\br.png" />
+    <Resource Include="assets\wb.png" />
+    <Resource Include="assets\wk.png" />
+    <Resource Include="assets\wn.png" />
+    <Resource Include="assets\wp.png" />
+    <Resource Include="assets\wq.png" />
+    <Resource Include="assets\wr.png" />
+  </ItemGroup>
+
+</Project>
